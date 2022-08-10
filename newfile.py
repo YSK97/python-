@@ -1,0 +1,6 @@
+print('Ravi')
+print('school')
+print ('collge')
+print('even')
+print('plant')
+print('1234')
